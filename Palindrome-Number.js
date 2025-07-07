@@ -3,6 +3,7 @@
  * @return {boolean}
  */
 var isPalindrome = function(x) {
+    if(x < 0) return false
     let newx = x
     let rev = 0
     let rem = 0
