@@ -29,7 +29,5 @@ var findMaxAverage = function(nums, k) {
 };
 
 function calculateAverage(high,low,sum){
-    let len = high - low + 1
-    avg = sum / len
-    return avg
+    return sum / (high - low + 1)
 }
