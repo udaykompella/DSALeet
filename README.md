@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/udaykompella/DSALeet/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/udaykompella/DSALeet/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/udaykompella/DSALeet/tree/master/0057-insert-interval) |
 | [0128-longest-consecutive-sequence](https://github.com/udaykompella/DSALeet/tree/master/0128-longest-consecutive-sequence) |
@@ -15,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/udaykompella/DSALeet/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/udaykompella/DSALeet/tree/master/0128-longest-consecutive-sequence) |
 | [0560-subarray-sum-equals-k](https://github.com/udaykompella/DSALeet/tree/master/0560-subarray-sum-equals-k) |
 ## Union-Find
@@ -24,10 +26,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/udaykompella/DSALeet/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/udaykompella/DSALeet/tree/master/0056-merge-intervals) |
 ## String
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/udaykompella/DSALeet/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/udaykompella/DSALeet/tree/master/0058-length-of-last-word) |
 ## Binary Search
 |  |
