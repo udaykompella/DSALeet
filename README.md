@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0057-insert-interval](https://github.com/udaykompella/DSALeet/tree/master/0057-insert-interval) |
 | [0128-longest-consecutive-sequence](https://github.com/udaykompella/DSALeet/tree/master/0128-longest-consecutive-sequence) |
 | [0209-minimum-size-subarray-sum](https://github.com/udaykompella/DSALeet/tree/master/0209-minimum-size-subarray-sum) |
+| [0268-missing-number](https://github.com/udaykompella/DSALeet/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/udaykompella/DSALeet/tree/master/0283-move-zeroes) |
 | [0560-subarray-sum-equals-k](https://github.com/udaykompella/DSALeet/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/udaykompella/DSALeet/tree/master/0643-maximum-average-subarray-i) |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/udaykompella/DSALeet/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/udaykompella/DSALeet/tree/master/0128-longest-consecutive-sequence) |
+| [0268-missing-number](https://github.com/udaykompella/DSALeet/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/udaykompella/DSALeet/tree/master/0560-subarray-sum-equals-k) |
 ## Union-Find
 |  |
@@ -28,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/udaykompella/DSALeet/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/udaykompella/DSALeet/tree/master/0056-merge-intervals) |
+| [0268-missing-number](https://github.com/udaykompella/DSALeet/tree/master/0268-missing-number) |
 ## String
 |  |
 | ------- |
@@ -37,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/udaykompella/DSALeet/tree/master/0209-minimum-size-subarray-sum) |
+| [0268-missing-number](https://github.com/udaykompella/DSALeet/tree/master/0268-missing-number) |
 ## Sliding Window
 |  |
 | ------- |
@@ -52,4 +56,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0283-move-zeroes](https://github.com/udaykompella/DSALeet/tree/master/0283-move-zeroes) |
+## Math
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/udaykompella/DSALeet/tree/master/0268-missing-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/udaykompella/DSALeet/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
