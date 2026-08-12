@@ -1,19 +1,23 @@
+/**
+ * @param {number} target
+ * @param {number[]} nums
+ * @return {number}
+ */
 var minSubArrayLen = function(target, nums) {
     let low = 0;
-    let high = 0;
-    let res = Infinity;
     let sum = 0;
+    let res = Infinity;
 
-    while (high < nums.length) {
+    for (let high = 0; high < nums.length; high++) {
         sum += nums[high];
 
         while (sum >= target) {
-            res = Math.min(res, high - low + 1);
+            let len = high - low + 1;
+            res = Math.min(len, res);
+
             sum -= nums[low];
             low++;
         }
-
-        high++;
     }
 
     return res === Infinity ? 0 : res;
